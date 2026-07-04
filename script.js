@@ -198,64 +198,64 @@ function initPortfolioFilters() {
 // Comprehensive portfolio projects data with high-end architectural descriptions
 const projectData = {
   1: {
-    title: "Aurelia Residences",
-    category: "Creative Direction",
-    client: "Shang Properties & Robinsons Land",
+    title: "33kV Distribution Grid Commissioning",
+    category: "Electrical Networks",
+    client: "Gas Transmission & Distribution Corp",
     year: "2025",
-    description: "A digital showcase for a ultra-luxury residential skyscraper. Aurelia Residences embodies modern sophistication and structural elegance. The digital experience featured full WebGL structural renders, immersive cinematic panning, and custom horizontal typography grids modeled on spatial architecture layouts.",
-    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    tags: ["WebGL Architecture", "Brand Heritage", "Interaction Design", "Cinematic Motion"],
-    link: "https://aureliaresidences.com"
+    description: "Erection, commissioning, and operational management of high-voltage substation networks. Handled load profiling, protective relay coordination schemes, and safety testing parameters to secure resilient power feeds for critical gas compressor stations.",
+    image: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1200&q=80",
+    tags: ["Grid Erection", "Substation Protection", "Commissioning Protocols", "Network Optimization"],
+    link: "#"
   },
   2: {
-    title: "Zephyr Chronograph",
-    category: "Interactive Design",
-    client: "Zephyr Watchmakers",
-    year: "2026",
-    description: "A micro-immersive tactile e-commerce landing page celebrating the legendary engineering of mechanical hand-wound chronographs. The interface mirrors the complexity and materials of watchmaking, featuring real-time light reflections, smooth circular scroll triggers, and high-frequency tactile physics for digital crown interaction.",
-    image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1200&q=80",
-    tags: ["Tactile Mechanics", "3D Reflections", "Product Experience", "Micro-physics"],
-    link: "https://zephyrwatches.com"
+    title: "Gas Compressor Power Plant Integration",
+    category: "Project Management",
+    client: "Federal Gas Distribution Union",
+    year: "2024",
+    description: "Comprehensive design-to-delivery project management of industrial gas distribution power hubs. Coordinated multi-disciplinary engineering guilds to integrate redundant generator clusters, main switchgear interfaces, and remote telemetry control boards.",
+    image: "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+    tags: ["Project Management", "Industrial Switchgear", "Redundant Generators", "Critical Infrastructure"],
+    link: "#"
   },
   3: {
-    title: "Vespera Atelier",
-    category: "Brand Architecture",
-    client: "Vespera Haute Couture",
-    year: "2025",
-    description: "Vespera is a digital salon presenting fine silk textiles and bespoke tailoring. Built as an editorial editorial lookbook, the layout uses expansive margins, delicate thin lines, elegant serif transitions, and asynchronous vertical scrolling to create an atmosphere of quiet luxury and premium craftsmanship.",
-    image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1200&q=80",
-    tags: ["Editorial Typography", "Symmetry Layouts", "Asynchronous Scroll", "Atelier Lookbook"],
-    link: "https://vespera.com"
+    title: "High-Power Induction Machine Diagnostics",
+    category: "Machine Operations",
+    client: "Industrial Transmission Guild",
+    year: "2023",
+    description: "Maintenance, preventative insulation diagnostics, and operational optimization of high-power induction machines. Integrated thermal tracking models and automated vibration sensors to extend mechanical lifecycles and avoid catastrophic failure windows.",
+    image: "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1200&q=80",
+    tags: ["Induction Machines", "Predictive Maintenance", "Insulation Testing", "Thermal Telemetry"],
+    link: "#"
   },
   4: {
-    title: "L'Aura Cosmetics",
-    category: "Creative Direction",
-    client: "L'Aura Paris",
-    year: "2026",
-    description: "An interactive editorial campaign for an organic luxury perfume lines. The digital journey translates fragrance notes (sandalwood, amber, wild jasmine) into visual atmospheres utilizing dynamic particle simulations, abstract organic wave meshes, and customized soundscape generation.",
-    image: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1200&q=80",
-    tags: ["Particle Simulations", "Atmospheric Audio", "Organic Waveforms", "Immersive Commerce"],
-    link: "https://lauracosmetics.com"
+    title: "Substation Telecontrol Switchgear",
+    category: "Electrical Networks",
+    client: "Gas Distribution Network",
+    year: "2025",
+    description: "Modernization and commissioning of medium-voltage digital switchgear units. Configured automated busbar transfer switches, remote control RTUs, and real-time power quality monitors, maximizing system uptime across distribution pipelines.",
+    image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80",
+    tags: ["MV Switchgear", "RTU Integration", "Power Quality Analysis", "Commissioning"],
+    link: "#"
   },
   5: {
-    title: "Solis Pavilion",
-    category: "Interactive Design",
-    client: "Solis Architectural Association",
+    title: "Synchronous Machine Refurbishment",
+    category: "Machine Operations",
+    client: "Heavy Industries Power",
     year: "2024",
-    description: "A generative architectural archival platform charting standard sustainable luxury pavilion concepts. Designed with high-contrast, brutalist spacing, delicate thin grid frames, mathematical coordinate displays, and interactive light simulation systems displaying shadow projections during 24-hour cycles.",
-    image: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
-    tags: ["Brutalist Geometry", "Shadow Physics", "Sustainable Luxury", "Coordinates Grid"],
-    link: "https://solispavilion.org"
+    description: "On-site stator winding refurbishment and excitation system tuning for a main standby synchronous generator. Re-aligned rotor-stator air gaps and calibrated digital automatic voltage regulators (AVR) to secure grid-compliant voltage tolerances.",
+    image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80",
+    tags: ["Standby Generators", "AVR Calibration", "Rotor-Stator Alignment", "Machine Maintenance"],
+    link: "#"
   },
   6: {
-    title: "Elysium Yacht Concept",
-    category: "Brand Architecture",
-    client: "Elysium Naval Labs",
+    title: "Integrated Operations Control Center",
+    category: "Project Management",
+    client: "State Transmission Authority",
     year: "2025",
-    description: "A virtual maiden voyage deck showcasing a bespoke superyacht commission. Implemented complete 3D interior exploration pipelines, horizontal spatial scrolling, responsive luxury status tracking, and a dynamic inquiry dashboard designed to sync securely with high-net-worth customer registries.",
-    image: "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?auto=format&fit=crop&w=1200&q=80",
-    tags: ["Naval Architecture", "3D Interior Tour", "Inquiry Concierge", "Fluid Parallax"],
-    link: "https://elysiumyachts.com"
+    description: "Architected a state-of-the-art power distribution control room. Managed physical site erection, integrated dual-redundant UPS backup stations, and set up dynamic video walls displaying unified SCADA grid telemetry parameters.",
+    image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    tags: ["SCADA Command Center", "UPS Systems", "Operations Erection", "Telemetry Integration"],
+    link: "#"
   }
 };
 
@@ -306,7 +306,11 @@ function initProjectModals() {
       }
 
       if (modalLink) {
-        modalLink.setAttribute('href', data.link);
+        modalLink.setAttribute('href', '#contact');
+        // Close modal when clicked to allow scrolling
+        modalLink.onclick = () => {
+          closeModalFunc();
+        };
       }
 
       // Show modal with animation

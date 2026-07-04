@@ -6,15 +6,15 @@
   --font-serif: 'Georgia', Georgia, serif;
   --font-mono: 'JetBrains Mono', monospace;
   
-  --color-bg: #05070A;           /* Geometric Balance Deep Dark */
-  --color-bg-alt: #090d16;       /* Geometric Balance Rich Accent Dark */
+  --color-bg: #120205;           /* Luxury Dark Maroon */
+  --color-bg-alt: #22050b;       /* Luxury Dark Maroon Alt */
   --color-accent: #DFB24F;       /* Soft Luxury Gold */
   --color-accent-rgb: 223, 178, 79;
   --color-accent-pale: #f0e6d2;  /* Champagne White */
   --color-text-primary: #f8fafc;
-  --color-text-secondary: #94a3b8;
+  --color-text-secondary: #e2e8f0;
   --color-border-glass: rgba(255, 255, 255, 0.08);
-  --color-bg-glass: rgba(5, 7, 10, 0.65);
+  --color-bg-glass: rgba(18, 2, 5, 0.65);
   
   --transition-slow: all 0.8s cubic-bezier(0.16, 1, 0.3, 1);
   --transition-medium: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
@@ -154,7 +154,7 @@ body {
 .ambient-orb-2 {
   width: 500px;
   height: 500px;
-  background: radial-gradient(circle, rgba(99, 102, 241, 0.25) 0%, rgba(0,0,0,0) 70%); /* Deep indigo-blue */
+  background: radial-gradient(circle, rgba(159, 18, 57, 0.3) 0%, rgba(0,0,0,0) 70%); /* Deep crimson-rose */
   bottom: -100px;
   left: -100px;
 }
